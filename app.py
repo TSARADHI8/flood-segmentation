@@ -124,8 +124,6 @@ st.sidebar.markdown("""
 **Training:** 30 epochs on 398 labeled images
 
 **Overall IoU:** 59.9%
-
-
 """)
 
 st.sidebar.markdown("---")
