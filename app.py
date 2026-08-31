@@ -125,12 +125,7 @@ st.sidebar.markdown("""
 
 **Overall IoU:** 59.9%
 
-**Team:**
-- Tulasi Pardhasaradhi
-- Akash Reddy Maktal
-- Sohail Hussain Shaik Khaja
 
-**Course:** DSC02 Machine Learning, Summer 2026
 """)
 
 st.sidebar.markdown("---")
